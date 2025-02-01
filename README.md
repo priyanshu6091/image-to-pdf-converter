@@ -73,7 +73,9 @@ A web application built with the MERN stack (MongoDB, Express.js, React.js, Node
    ```
 3. Open your browser and navigate to http://localhost:5173 to access the application.
 
-## Usage
+## Screenshot
+![image](https://github.com/user-attachments/assets/d5d6874e-9f0a-4c1c-8bc3-a5a18f27ed15)
+
 
 ### Upload Images:
 - Click the "Choose Files" button to select multiple images.
