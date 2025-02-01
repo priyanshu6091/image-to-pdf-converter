@@ -50,7 +50,7 @@ A web application built with the MERN stack (MongoDB, Express.js, React.js, Node
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-to-pdf-converter.git
+   git clone https://github.com/priyanshu6091/image-to-pdf-converter.git
    cd image-to-pdf-converter
    ```
 2. Install dependencies for both the frontend and backend:
@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or feedback, please contact your-email@example.com.
+For any questions or feedback, please contact galanipriyanshu@gmail.com.
